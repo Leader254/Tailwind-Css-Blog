@@ -9,8 +9,9 @@ This is a blog application built with React.js, styled using Tailwind CSS, and e
 3. Typed.js: The blog utilizes Typed.js, a JavaScript library for creating typewriter-like animated text. This adds a visually appealing and interactive element to the blog by animating the text content dynamically. The Typed.js library allows for customization of typing speed, backspacing, and looping effects.
 
 Getting Started
-Clone the repository: git clone https://github.com/Leader254/Tailwind-Css-Blog.git
-Navigate to the project directory: cd data-finance
-Install the dependencies: yarn 
-Start the development server: yarn dev
-Open your browser and visit: http://localhost:${link}
+```
+git clone
+cd data-finance
+yarn 
+yarn dev
+```
